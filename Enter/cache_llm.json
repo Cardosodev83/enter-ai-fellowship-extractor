@@ -1,0 +1,57 @@
+{
+  "f6b787c944bcb563": {
+    "nome": "JOANA D'ARC",
+    "inscricao": "101943",
+    "subsecao": "CONSELHO SECCIONAL - PARANÁ",
+    "categoria": "SUPLEMENTAR",
+    "endereco_profissional": "AVENIDA PAULISTA, Nº 2300 andar Pilotis, Bela Vista, SÃO PAULO - SP, 01310300",
+    "telefone_profissional": null
+  },
+  "bdea6ecf08f84632": {
+    "nome": "LUIS FILIPE ARAUJO AMARAL",
+    "endereco_profissional": "AVENIDA PAULISTA, Nº 2300 andar Pilotis, Bela Vista, SÃO PAULO - SP, 01310300"
+  },
+  "5832960626ea2cd5": {
+    "nome": "SON GOKU",
+    "telefone_profissional": null
+  },
+  "f415cfbef5814e32": {
+    "data_base": "05/09/2025",
+    "data_verncimento": "12/10/2025",
+    "quantidade_parcelas": null,
+    "produto": null,
+    "sistema": "CONSIGNADO",
+    "tipo_de_operacao": null,
+    "tipo_de_sistema": null
+  },
+  "3006a5cb0b737f2d": {
+    "pesquisa_por": "CLIENTE",
+    "pesquisa_tipo": "CPF",
+    "valor_parcela": "2.372,64",
+    "cidade": "Mozarlândia"
+  },
+  "e3a3d64a7920947f": {
+    "data_referencia": "04/02/2021",
+    "selecao_de_parcelas": null,
+    "total_de_parcelas": 96
+  },
+  "501d084af2a7de23": {
+    "nome": "JOANA D'ARC",
+    "endereco_profissional": "AVENIDA PAULISTA, Nº 2300 andar Pilotis, Bela Vista SÃO PAULO - SP 01310300",
+    "telefone_profissional": null
+  },
+  "a036552feb58a5f5": {
+    "data_base": "05/09/2025",
+    "quantidade_parcelas": null,
+    "produto": null,
+    "tipo_de_operacao": "Vencidas",
+    "tipo_de_sistema": "CONSIGNADO"
+  },
+  "0dabd18015ae2156": {
+    "cidade": "Mozarlândia"
+  },
+  "01d73c274ebc26d8": {
+    "selecao_de_parcelas": null,
+    "total_de_parcelas": 96
+  }
+}
